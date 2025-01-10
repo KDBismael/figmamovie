@@ -1,4 +1,4 @@
-import 'package:figmamovie/views/signin-or-signup.dart';
+import 'package:figmamovie/views/auth%20screens/verificationScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -28,6 +28,6 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(body: SigninOrSignup());
+    return const Scaffold(body: VerificationScreen());
   }
 }
