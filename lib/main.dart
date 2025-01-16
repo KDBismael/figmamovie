@@ -1,4 +1,4 @@
-import 'package:figmamovie/views/auth%20screens/verificationScreen.dart';
+import 'package:figmamovie/features/auth/presentation/pages/verificationScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
